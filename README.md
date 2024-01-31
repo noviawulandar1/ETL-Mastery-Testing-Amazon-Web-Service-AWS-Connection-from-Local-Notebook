@@ -4,7 +4,7 @@
 
 This work contains:
 1. 🔐 Define Access Key and Secret Variables
-2. 2. 📋 Check All Existing Buckets
+2. 📋 Check All Existing Buckets
 3. 🛠️ Create AWS Bucket: Customize Your Bucket Name
 4. 📁 Store CSV Files from Local Laptop Disk to AWS Bucket and Custom Folders
 5. 📂 Read CSV File from Bucket using Local Python 🐍: Print the DataFrame
